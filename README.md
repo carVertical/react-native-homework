@@ -20,7 +20,7 @@ https://www.figma.com/file/tZbqXurwc5iFu5ev3ni38Z/React-Native-homework?node-id=
     ```
 - [ ] Implement all provided screens. Just the general behavior is enough, don’t linger over the details
 - [ ] Write at least one test
-- [ ] Share code as a private repo on GitHub. Add [@Cinamonas](https://github.com/Cinamonas) and [@artur-charcenko](https://github.com/artur-charcenko) as collaborators for review
+- [ ] Share code as a private repo on GitHub. Add [@Cinamonas](https://github.com/Cinamonas) as a collaborator for review
 - [ ] Include instructions on how to test the app in `README`. If TestFlight is used, send invites to _alex at carvertical dot com_ and _artur at carvertical dot com_
 
 ## Notes
