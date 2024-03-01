@@ -9,11 +9,10 @@ Build a loyalty coupons feature for the app. It should consist of a sequence of 
 ## Requirements
 
 - [ ] Create API endpoints mocks to simulate backend for this feature. Something like:
-```javascript
-const mockedCoupons = ....
-const getCoupons = () => Promise.resolve(mockedCoupons);
-const updateCoupon = (coupon) => Promise.resolve(updateCoupon(coupon));
-```
+  ```js
+  const mockedCoupons = ....
+  const getCoupons = () => Promise.resolve(mockedCoupons);
+  const updateCoupon = (coupon) => Promise.resolve(updateCoupon(coupon));
 - [ ] Implement all provided screens. Just the general behavior is enough, don’t linger over the details
 - [ ] Write at least one test
 - [ ] Share code as a private repo on GitHub. Add [@Cinamonas](https://github.com/Cinamonas) and [@arnasjozonis](https://github.com/arnasjozonis) as a collaborators for review
