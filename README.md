@@ -1,23 +1,19 @@
 # Homework for React Native Candidate
 
-Build a car insurance portion of an app. It should consist of a sequence of screens.
+Build a loyalty coupons feature for the app. It should consist of a sequence of screens.
 
 ## Design
 
-https://www.figma.com/file/tZbqXurwc5iFu5ev3ni38Z/React-Native-homework?node-id=0%3A1
+[React native homework figma file](https://www.figma.com/file/tZbqXurwc5iFu5ev3ni38Z/React-Native-homework?type=design&node-id=2101-17759&mode=dev)
 
 ## Requirements
 
-- [ ] Fetch insurance offers by `POST`ing to https://run.mocky.io/v3/8258eada-7c19-41f9-82d6-57a01350073b
-  ```js
-  // request payload example:
-  {
-    regPlate: 'FOO123',
-    personalCode: '39001010001',
-    startDate: '2022-04-20',
-    durationMonths: 6
-  }
-  ```
+- [ ] Create API endpoints mocks to simulate backend for this feature. Something like:
+```javascript
+const mockedCoupons = ....
+const getCoupons = () => Promise.resolve(mockedCoupons);
+const updateCoupon = (coupon) => Promise.resolve(updateCoupon(coupon));
+```
 - [ ] Implement all provided screens. Just the general behavior is enough, don’t linger over the details
 - [ ] Write at least one test
 - [ ] Share code as a private repo on GitHub. Add [@Cinamonas](https://github.com/Cinamonas) and [@arnasjozonis](https://github.com/arnasjozonis) as a collaborators for review
