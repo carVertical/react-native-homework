@@ -15,7 +15,7 @@ Build a loyalty coupons feature for the app. It should consist of a sequence of 
   const updateCoupon = (coupon) => Promise.resolve(updateCoupon(coupon));
 - [ ] Implement all provided screens. Just the general behavior is enough, don’t linger over the details
 - [ ] Write at least one test
-- [ ] Share code as a private repo on GitHub. Add [@Cinamonas](https://github.com/Cinamonas) and [@arnasjozonis](https://github.com/arnasjozonis) as a collaborators for review
+- [ ] Share code as a private repo on GitHub. Add [@arnasjozonis](https://github.com/arnasjozonis) as a collaborators for review
 - [ ] Include instructions on how to test the app in `README`. If TestFlight is used, send invites to _alex at carvertical dot com_ and _arnasjozonis at carvertical dot com_
 
 ## Notes
